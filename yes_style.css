@@ -10,6 +10,7 @@ body {
 
 .container {
     text-align: center;
+    padding: 20px;
 }
 
 .header_text {
@@ -25,7 +26,7 @@ body {
     width: 100%; 
     max-width: 500px; 
     height: auto;
-    dsiplay: block;
+    display: block;
     margin: 0 auto;
     border-radius: 10px;
 }
